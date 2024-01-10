@@ -48,8 +48,6 @@ npm start
 
 ### Backend
 
-As per the provided image:
-
 * The `backend` directory contains:
 - `models` folder for defining data structures.
 - `routes/api` folder containing routing files.
