@@ -1,11 +1,11 @@
-# Book-Search-Engine
+# Book-Search-Engine 📚
 
 <img src="git.png" alt="Interface">
 
-## About
+## About 📝
 Book-Search-Engine is a full-stack project designed to implement and showcase my learnings. It features a simple interface connected to a server and database, fetching books based on specified parameters.
 
-## Tech Used
+## Tech Used 💻
 - JavaScript
 - React.js
 - Node.js
@@ -14,7 +14,7 @@ Book-Search-Engine is a full-stack project designed to implement and showcase my
 - CSS 
 - DOM
 
-## Installation 
+## Installation 🛠️
 The repository contains two separate directories for the backend and frontend.
 
 1. Clone the repository:
@@ -44,7 +44,7 @@ npm install
 npm start
  ```
 
-## Structure 
+## Structure 🏗️
 
 ### Backend
 
@@ -70,9 +70,9 @@ As per the provided image:
   * Other utility files like ‘logo.svg’, ‘reportWebVitals.js’, ‘setupTests.js’.
 - Configuration and package files similar to those in the backend.
 
-## Connect with Me 
+## Connect with Me 🤝
 
-having any query?? 
+Having any query?? 
 
 [![Twitter: Akhilesh](https://img.shields.io/twitter/follow/AKY241005?style=social)](https://twitter.com/aky241005) &nbsp;&nbsp;
 [![Linkedin: Akhilesh](https://img.shields.io/badge/-AkhileshKr.-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/akhilesh-kr-yadav) &nbsp;&nbsp;
