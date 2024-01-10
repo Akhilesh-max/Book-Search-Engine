@@ -1,6 +1,6 @@
 # Book-Search-Engine
 
-!Interface Image 
+<img src="git.png" alt="Interface">
 
 ## About
 Book-Search-Engine is a full-stack project designed to implement and showcase my learnings. It features a simple interface connected to a server and database, fetching books based on specified parameters.
