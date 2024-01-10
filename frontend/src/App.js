@@ -1041,6 +1041,7 @@ function App() {
           <button id='search' className='search-btn' onClick={handleOnSearch}>Search</button>
 
           <div id='books' className='books'>
+            
 
              {bookList.map((bookData, index)=>(
               <div key={index} id='book-card' className='book-card' onClick={()=> handleOnBookCardClick(bookData.title)}>
